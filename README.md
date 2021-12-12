@@ -19,6 +19,6 @@ Why do this? I don't know myself either.
 - [One hour of silence occasionally broken by the Lego Yoda death sound.](https://www.youtube.com/watch?v=l88OZsBVA_I)
 - [1 hour of silence broken up by the 21 kid](https://www.youtube.com/watch?v=TAbXrwO7ku8)
 - [1 hour of silence occasionally broken by luigi saying “Hello mario.”](https://www.youtube.com/watch?v=IFpd0hZxfAI)
-- [1 hour of silence broken by random minecraft cave sounds (watch at 3 am)](https://www.youtube.com/watch?v=z6BSnp534L)
+- [1 hour of silence broken by random minecraft cave sounds (watch at 3 am)](https://www.youtube.com/watch?v=z6BSnp534L4)
 - [1 hour of silence broken by "bing chilling"](https://www.youtube.com/watch?v=TvRgTasZqyc)
 - [1 hour of silence occasionally broken up by Metal Gear Alert sound](https://www.youtube.com/watch?v=BtNB7qpCkwQ)
