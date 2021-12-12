@@ -19,6 +19,6 @@ open('https://www.youtube.com/watch?v=P5RvvcaQEIs'); // 1 hour of silence occasi
 open('https://www.youtube.com/watch?v=l88OZsBVA_I'); // One hour of silence occasionally broken by the Lego Yoda death sound.
 open('https://www.youtube.com/watch?v=TAbXrwO7ku8'); // 1 hour of silence broken up by the 21 kid
 open('https://www.youtube.com/watch?v=IFpd0hZxfAI'); // 1 hour of silence occasionally broken by luigi saying “Hello mario.”
-open('https://www.youtube.com/watch?v=z6BSnp534L'); // 1 hour of silence broken by random minecraft cave sounds (watch at 3 am)
+open('https://www.youtube.com/watch?v=z6BSnp534L4'); // 1 hour of silence broken by random minecraft cave sounds (watch at 3 am)
 open('https://www.youtube.com/watch?v=TvRgTasZqyc'); // 1 hour of silence broken by "bing chilling"
 open('https://www.youtube.com/watch?v=BtNB7qpCkwQ'); // 1 hour of silence occasionally broken up by Metal Gear Alert sound
